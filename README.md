@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://BIG-com.github.io">
-      <img src="https://raw.githubusercontent.com/BIG-com/blog_image_repo/main/img/Welcome to.gif" alt="welcomeMainImg">
+      <img src="https://raw.githubusercontent.com/BIG-com/blog_image_repo/main/img/RG9086's gIThUB.gif" alt="welcomeMainImg">
   </a>
 </h1>
 
@@ -9,7 +9,7 @@
 <p align="center">
   <h3 align="center">
     <img align="left" src="https://komarev.com/ghpvc/?username=rg9086&label=Profile%20views&color=0e75b6&style=plastic" alt="rg9086" />
-    Hi 👋, I'm BIG-com, a passionate developer from Korea</h3>
+    Hi 👋, I'm rg9086, a passionate developer from Korea</h3>
 </p>
 
 
